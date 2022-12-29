@@ -3,7 +3,7 @@
   <a href="https://github.com/dpmanek" target="_blank">Deep Manek</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
