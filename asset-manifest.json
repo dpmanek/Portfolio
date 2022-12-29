@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4e558664.css",
-    "main.js": "/Portfolio/static/js/main.69558205.js",
+    "main.js": "/Portfolio/static/js/main.0e029e32.js",
     "static/js/787.d16e9580.chunk.js": "/Portfolio/static/js/787.d16e9580.chunk.js",
     "static/media/Deep-Manek.pdf": "/Portfolio/static/media/Deep-Manek.2bbe6b0a43ac7f91c0a3.pdf",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -11,11 +11,11 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
-    "main.69558205.js.map": "/Portfolio/static/js/main.69558205.js.map",
+    "main.0e029e32.js.map": "/Portfolio/static/js/main.0e029e32.js.map",
     "787.d16e9580.chunk.js.map": "/Portfolio/static/js/787.d16e9580.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e558664.css",
-    "static/js/main.69558205.js"
+    "static/js/main.0e029e32.js"
   ]
 }
