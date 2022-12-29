@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website<br/>
   <a href="https://github.com/dpmanek" target="_blank">Deep Manek</a>
 </h2>
 <div align="center">
