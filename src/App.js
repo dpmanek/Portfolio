@@ -7,7 +7,8 @@ import About from './components/About/About';
 import Footer from './components/Footer';
 import Resume from './components/Resume/ResumeNew';
 import {
-	BrowserRouter as Router,
+	HashRouter,
+	// BrowserRouter as Router,
 	Route,
 	Routes,
 	Navigate,
@@ -29,7 +30,7 @@ function App() {
 	}, []);
 
 	return (
-		<Router>
+		<HashRouter basename="/">
 			<Preloader load={load} />
 			<div className="App" id={load ? 'no-scroll' : 'scroll'}>
 				<Navbar />
@@ -43,7 +44,7 @@ function App() {
 				</Routes>
 				<Footer />
 			</div>
-		</Router>
+		</HashRouter>
 	);
 }
 
