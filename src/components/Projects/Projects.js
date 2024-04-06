@@ -33,7 +33,7 @@ function Projects() {
 						<ProjectCard
 							imgPath={Rentpipe}
 							isBlog={false}
-							title="Rentpipe"
+							title="Rent Pipe"
 							description="A web application that allows users to find properties that are listed for Sale or Rent in their desired locations. his web application also allows users to create their own listings if they desire to Sell or Rent their house. "
 							ghLink="https://github.com/dpmanek/RentPipe"
 							demoLink="https://rentpipe.netlify.app/"
